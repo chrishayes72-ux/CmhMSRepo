@@ -1,0 +1,9 @@
+{
+	"name": "CmhMSDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2debaede-8a79-40c9-bee5-396987e3d89c",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
